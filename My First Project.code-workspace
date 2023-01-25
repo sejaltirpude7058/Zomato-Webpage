@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../foodimg"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My First Project"
+	}
+}
